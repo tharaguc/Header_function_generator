@@ -14,3 +14,5 @@ $> ./hfg.sh [ sentence ] [ font ]
 
 - You do not need to specify a font.
 - Refer to the `$> showfigfonts` for fonts.
+
+![sample](https://github.com/tharaguc/Header_function_generator/blob/images/sample2.png)
