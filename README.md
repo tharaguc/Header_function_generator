@@ -12,6 +12,8 @@
 $> ./hfg.sh [ sentence ] [ font ]
 ```
 
+- If `figlet` is not installed, it will be installed on the first run
+
 - You do not need to specify a font.
 - Refer to the `$> showfigfonts` for fonts.
 
